@@ -1,9 +1,17 @@
 # ${name}
 
-${description}。
+${description}
 
-## 使用方法
+## 安装
 
+```bash
+npm install ${name} --save
 ```
-npm i -g ${name}
+
+```bash
+yarn add ${name}
 ```
+
+## 示例
+
+## API

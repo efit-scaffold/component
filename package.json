@@ -2,7 +2,6 @@
   "name": "${name}",
   "version": "${version}",
   "description": "${description}",
-  "author": "${author}",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,9 +11,11 @@
   "files": [
     "lib"
   ],
+  "author": "${author}",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/efitjs/efit.git"
   },
+  "homepage": "https://github.com/efitjs/efit",
   "license": "MIT"
 }
